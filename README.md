@@ -12,4 +12,4 @@ Lamentablemente, el apartado de generar procesos en segundo plano no se encuentr
 | Nombre | GitHub |
 |----------|----------|
 | Yago Navarrete| https://github.com/OkachuX |
-| Santiago Ramos Gómez | https://github.com/sRamosg2018 |
+| Santiago Ramos Gómez | https://github.com/samidhdk |
